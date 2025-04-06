@@ -1,0 +1,1 @@
+var json_20191001_31 = {"type":"FeatureCollection","name":"20191001_31","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"【20191001変更】郡山東（東ＩＣ）～福島中央（西ＩＣ）"},"geometry":{"type":"LineString","coordinates":[[140.403789,37.408615],[140.403789,37.408615]]}}]}

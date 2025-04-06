@@ -1,0 +1,1 @@
+var json__123 = {"type":"FeatureCollection","name":"_123","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"】高知東～新大阪"},"geometry":{"type":"LineString","coordinates":[[135.500295,34.733017],[135.500295,34.733017]]}}]}

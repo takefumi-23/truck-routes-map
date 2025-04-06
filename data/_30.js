@@ -1,0 +1,1 @@
+var json__30 = {"type":"FeatureCollection","name":"_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"】神戸中央～姫路"},"geometry":{"type":"LineString","coordinates":[[135.197251,34.69318],[135.197251,34.69318]]}}]}

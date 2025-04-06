@@ -1,0 +1,1 @@
+var json__84 = {"type":"FeatureCollection","name":"_84","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"】水戸中央～郡山東（那珂ＩＣ～郡山東ＩＣ）"},"geometry":{"type":"LineString","coordinates":[[140.403789,37.408615],[140.403789,37.408615],[140.403789,37.408615]]}}]}

@@ -1,0 +1,1 @@
+var json__5 = {"type":"FeatureCollection","name":"_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"】川崎東～新東京"},"geometry":{"type":"LineString","coordinates":[[139.69205,35.689546],[139.69205,35.689546]]}}]}

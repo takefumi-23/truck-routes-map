@@ -1,0 +1,1 @@
+var json_20191001_111 = {"type":"FeatureCollection","name":"20191001_111","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"【20191001変更】郡山東～岩手（郡山東ＩＣ使用）"},"geometry":{"type":"LineString","coordinates":[[140.403789,37.408615],[140.403789,37.408615]]}}]}

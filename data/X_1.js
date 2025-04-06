@@ -1,0 +1,1 @@
+var json_X_1 = {"type":"FeatureCollection","name":"X_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"Xフロンティア～新東京"},"geometry":{"type":"LineString","coordinates":[[139.69205,35.689546],[139.69205,35.689546]]}}]}

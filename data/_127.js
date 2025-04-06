@@ -1,0 +1,1 @@
+var json__127 = {"type":"FeatureCollection","name":"_127","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"■宮崎中央～新福岡（１Ｆ）"},"geometry":{"type":"LineString","coordinates":[[130.421739,33.590122],[130.421739,33.590122],[130.421739,33.590122]]}}]}

@@ -1,0 +1,1 @@
+var json__19 = {"type":"FeatureCollection","name":"_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"route_name":"■新福岡（１Ｆ）～久留米東"},"geometry":{"type":"LineString","coordinates":[[130.421739,33.590122],[130.421739,33.590122]]}}]}
